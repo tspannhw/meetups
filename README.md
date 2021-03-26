@@ -21,3 +21,4 @@ Meetup Materials
 * https://www.datainmotion.dev/2021/01/automating-starting-services-in-apache.html
 * https://www.datainmotion.dev/2021/01/flank-real-time-transit-information-for.html
 * https://www.datainmotion.dev/2020/12/smart-stocks-with-flank-nifi-kafka.html
+* https://www.slideshare.net/bunkertor/flink-sql-for-continuous-sql-etl-apps-apache-nifi-devops
