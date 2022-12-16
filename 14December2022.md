@@ -44,9 +44,19 @@ https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/289817171/
 
 * https://www.youtube.com/watch?v=k8Eey16OQMg
 
+* https://www.youtube.com/watch?v=KMbTlmoDXXA
+
+
+#### Meetup Channel
+
+* https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w
 
 #### Code
 
 * https://github.com/tspannhw/pulsar-thermal-pinot
 * https://github.com/tspannhw/pulsar-thermal-pinot/blob/main/weather.md
 
+#### Articles
+
+* https://dzone.com/articles/building-real-time-weather-dashboards-with-apache
+* https://medium.com/@tspann/building-a-real-time-iot-application-with-apache-pulsar-and-apache-pinot-1e3baf8c1824
