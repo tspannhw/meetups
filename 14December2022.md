@@ -38,6 +38,10 @@ https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/289817171/
 * https://www.slideshare.net/bunkertor/nyc-dec-2022-meetup-building-realtime-requires-a-team
 
 
+![1](https://github.com/tspannhw/meetups/raw/main/images/december2022/meetup1.jpg)
+![2](https://github.com/tspannhw/meetups/raw/main/images/december2022/speed.jpeg)
+![3](https://github.com/tspannhw/meetups/raw/main/images/december2022/sploot.jpeg)
+
 #### Videos
 
 * https://www.youtube.com/watch?v=uXMizpCETJg
