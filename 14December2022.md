@@ -16,6 +16,14 @@ https://www.meetup.com/_next/image/?url=https%3A%2F%2Fsecure-content.meetupstati
 https://notist.davidgs.com/ https://notist.davidgs.com/
 
 
+“Building Real-Time Requires a Team”- Tim Spann, Developer Advocate @ StreamNative
+This talk will discuss building real-time streaming applications utilizing the best open-source systems. This FLiPPN Stack consisting of Apache Flink, Apache Pulsar, Apache Pinot, and Apache NiFi supercharges any real-time app or pipeline building. I will walk you through the what, why, how, and where to use these amazing tools. We will walk through some demos and dive into the source. At the end, we will have driven real-time events into Apache Pinot, setting the stage for your real-time user-facing insights.
+
+Tim Spann is a Developer Advocate for StreamNative. He works with StreamNative Cloud, Apache Pulsar™, Apache Flink®, Flink® SQL, Big Data, the IoT, machine learning, and deep learning. Tim has over a decade of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal, and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit, and many more.
+Pronouns: He, They
+https://github.com/tspannhw/SpeakerProfile
+
+
 #### Meetup Information
 
 https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/289817171/
@@ -33,6 +41,8 @@ https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/289817171/
 #### Videos
 
 * https://www.youtube.com/watch?v=uXMizpCETJg
+
+* https://www.youtube.com/watch?v=k8Eey16OQMg
 
 
 #### Code
