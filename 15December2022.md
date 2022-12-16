@@ -60,6 +60,9 @@ https://www.meetup.com/futureofdata-newyork/
 https://github.com/tspannhw/pulsar-transit-function
 https://www.meetup.com/futureofdata-princeton/
 
+![1](https://github.com/tspannhw/meetups/raw/main/images/december2022/2022-12-15_18-21-59_095.jpeg)
+![2](https://github.com/tspannhw/meetups/raw/main/images/december2022/2022-12-15_18-22-10_560.jpeg)
+![3](https://github.com/tspannhw/meetups/raw/main/images/december2022/2022-12-15_18-37-59_081.jpeg)
 
 
 #### Meetup Information
