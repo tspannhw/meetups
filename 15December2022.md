@@ -75,7 +75,11 @@ https://www.meetup.com/futureofdata-princeton/
 
 #### Videos
 
-* 
+* https://www.youtube.com/watch?v=xBnYP1wtdmA
+
+* https://www.youtube.com/watch?v=Z6yeZlB8B90
+
+* https://www.youtube.com/watch?v=xBnYP1wtdmA
 
 
 #### Meetup Channel
