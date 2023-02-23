@@ -1,6 +1,9 @@
 # meetups
 Meetup Materials
 
+# slides
+
+* https://www.slideshare.net/bunkertor/the-next-generation-of-streaming
 
 # Links
 
