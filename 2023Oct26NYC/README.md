@@ -7,6 +7,10 @@
 [https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup](https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup)
 
 
+#### Source Code
+
+[https://github.com/tspannhw/FLaNK-watsonx.ai](https://github.com/tspannhw/FLaNK-watsonx.ai)
+
 #### Details
 
 The Latest in Real-Tim(e) Analytics with Generative AI, LLM and More
