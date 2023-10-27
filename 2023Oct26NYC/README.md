@@ -2,6 +2,72 @@
 
 26-October-2023 Meetup NYC
 
+#### Slides
+
+[https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup](https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup)
+
+
+#### Details
+
+The Latest in Real-Tim(e) Analytics with Generative AI, LLM and More
+
+[https://www.meetup.com/futureofdata-newyork/events/295516928/](https://www.meetup.com/futureofdata-newyork/events/295516928/)
+
+First meetup with two Tims.
+
+26Oct2023_ Adding Generative AI to Real-Time Streaming Pipelines_ NYC Meetup.pdf
+
+## Details
+
+````
+**Important**
+Please complete your registration in this short form.
+
+For on-site we have limited room, so please confirm if you are attending in-person in Manhattan, NYC.
+--------------------------------------------------------------------------------------------
+
+We're at StarTree, excited to join forces with our friends at Cloudera, for a meetup that is all about The Latest in Real-Time Analytics: Generative AI and LLM, featuring Apache Pinot and Apache NiFi.
+Join us for an insightful discussion about cutting-edge analytics, meet the community in person, and catch up over drinks and snacks.
+
+What's the plan ?
+05:30-06:00 Pizza and Networking
+06:00-06:35 Adding Generative AI to Real-Time Streaming Pipelines | Tim Spann, Principal Developer Advocate, Cloudera
+
+06:35-07:10 Apache Pinot and Kafka an excellent pairing for refined palates | Tim Veil, VP of Solutions Engineering and Enablement, StarTree
+
+07:10-07:20 QNA
+07:20- 07:30 More Snacks and Networking ;)
+
+**Important**
+
+Seats are limited
+Please complete your registration in this short form.
+Adding Generative AI to Real-Time Streaming Pipelines | Timothy Spann
+In this talk, Tim will discuss the basics of real-time streaming, walk through the tools used including Apache NiFi, Apache Kafka and Apache Flink and show how to build a real-time streaming pipeline that sends prompts to LLMs hosted by the likes of Hugging Face, IBM and Cloudera. He will also discuss where real-time data stores like Apache Pinot come into play.
+He will show a detailed demonstration of a few use cases involving different sources of data including Kafka, Medium Articles and interactive Question and Response in Slack. He will then show you how you can build your own and where areas of growth exist.
+Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera. He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more.
+https://github.com/tspannhw/SpeakerProfile
+
+Apache Pinot and Kafka an excellent pairing for refined palates | Tim Veil
+
+The other Tim, Tim Veil, will dive into the history and architecture of Apache Pinot and share why Pinot is a perfect compliment to streaming technologies like Apache Kafka. If you are a connoisseur of fine technologies you will enjoy this excellent pairing.
+Tim is the VP of Solutions Engineering and Enablement at StarTree. He is an avid reader and golfer. He is the father of three girls, two of which are teenagers. As a result he spends most evenings hiding in his room hoping the yelling stops soon.
+
+Cloud Computing
+Artificial Intelligence
+Machine Learning
+Data Management
+NoSQL
+Speaker
+Speaker
+Timothy Spann
+https://github.com/tspannhw/SpeakerProfile
+
+Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera. He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
+
+
+````
+
 
 #### output
 
