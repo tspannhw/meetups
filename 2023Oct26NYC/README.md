@@ -1,6 +1,6 @@
-##readme
+## 26-October-2023 Meetup NYC
 
-26-October-2023 Meetup NYC
+![meetup](https://github.com/tspannhw/meetups/blob/main/2023Oct26NYC/images/09212023-cloudera_ai-social_banner-v1%20(1).png?raw=true)
 
 #### Stats
 
@@ -16,6 +16,8 @@
 * 2 slide sets (https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup, )
 * 100 times NYC Evolve Mentioned
 * 1 broken video recording https://www.youtube.com/watch?v=GzZPWbYqcIY
+
+![meetupcollage](https://github.com/tspannhw/meetups/blob/main/2023Oct26NYC/images/Untitled%20design.png?raw=true)
 
 #### Slides
 
