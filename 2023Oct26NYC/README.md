@@ -31,6 +31,23 @@
 
 [https://github.com/tspannhw/FLaNK-watsonx.ai](https://github.com/tspannhw/FLaNK-watsonx.ai)
 
+[https://github.com/tspannhw/FLaNK-LLM](https://github.com/tspannhw/FLaNK-LLM)
+
+[https://github.com/tspannhw/FLaNK-HuggingFace-DistilBert-SentimentAnalysis](https://github.com/tspannhw/FLaNK-HuggingFace-DistilBert-SentimentAnalysis) 
+
+[https://github.com/tspannhw/FLaNK-Edge-Models](https://github.com/tspannhw/FLaNK-Edge-Models) 
+
+[https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data](https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data)
+
+
+
+
+#### Weekly Newsletter
+
+[https://bit.ly/32dAJft
+](https://bit.ly/32dAJft
+)
+
 #### Details
 
 The Latest in Real-Tim(e) Analytics with Generative AI, LLM and More
@@ -125,6 +142,39 @@ cf-ray: 81c585659edd199d-EWR
 =====
 
 ````
+
+#### Links
+
+* https://github.com/mit-han-lab/streaming-llm 
+* https://github.com/deepjavalibrary/djl-demo/tree/master/huggingface/nlp/src/main/java/com/examples 
+* https://pub.towardsai.net/deploy-huggingface-nlp-models-in-java-with-deep-java-library-e36c635b2053
+* https://milvus.io/docs/create_collection.md 
+* https://github.com/langchain4j/langchain4j 
+* https://github.com/mariofusco/droolsGPT
+* https://hub.docker.com/r/apache/nifi
+* https://medium.com/@tspann/cdc-not-cat-data-capture-e43713879c03
+* https://www.youtube.com/watch?v=Y1JeOrJIoKI
+* https://www.youtube.com/watch?v=he7bcQDbAIQ&t=6s 
+* https://www.youtube.com/watch?v=RPz7Xm4fLF4
+* https://dzone.com/articles/real-time-stream-processing-with-hazelcast-and-streamnative
+* https://flipstackweekly.com/
+* https://www.datainmotion.dev/
+* https://www.flankstack.dev/
+* https://github.com/tspannhw
+* https://medium.com/@tspann 
+* https://medium.com/@tspann/predictions-for-streaming-in-2023-ad4d7395d714 
+* https://www.apachecon.com/acna2022/slides/04_Spann_Tim_Citizen_Streaming_Engineer.pdf 
+* https://github.com/TheoKanning/openai-java
+* https://github.com/Knowly-ai/langtorch
+* https://onnxruntime.ai/docs/get-started/with-java.html
+* https://github.com/tjake/Jlama
+* https://github.com/HamaWhiteGG/langchain-java
+* https://nightlies.apache.org/flink/flink-ml-docs-master/docs/operators/feature/sqltransformer/
+* https://research.ibm.com/blog/retrieval-augmented-generation-RAG 
+
+
+
+
 
 
 #### Photos
