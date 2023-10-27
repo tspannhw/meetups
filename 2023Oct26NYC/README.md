@@ -23,6 +23,9 @@
 
 [https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup](https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup)
 
+#### Tim Spann's talk with audio
+
+[https://www.youtube.com/watch?v=WQA8G5_cMcQ](https://www.youtube.com/watch?v=WQA8G5_cMcQ)
 
 #### Source Code
 
