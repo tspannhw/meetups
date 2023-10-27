@@ -2,6 +2,21 @@
 
 26-October-2023 Meetup NYC
 
+#### Stats
+
+* 30 attendees
+* 2 speakers named Tim
+* 1 LLM Result indicating Timistan exists
+* 8 ASF Projects mentioned (Apache NiFi, Apache Pinot, Apache Kafka, Apache Flink, Apache Iceberg, Apache Spark, Apache Tika, Apache OpenNLP)
+* 9 Pizzas eaten
+* 20+ sodas drunk
+* 2 demos on large language models
+* 2 demos running Apache NiFi and WatsonX.AI
+* 1 source code https://github.com/tspannhw/FLaNK-watsonx.ai/tree/main
+* 2 slide sets (https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup, )
+* 100 times NYC Evolve Mentioned
+* 1 broken video recording https://www.youtube.com/watch?v=GzZPWbYqcIY
+
 #### Slides
 
 [https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup](https://www.slideshare.net/bunkertor/26oct2023adding-generative-ai-to-realtime-streaming-pipelines-nyc-meetup)
