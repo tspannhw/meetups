@@ -82,3 +82,36 @@ CREATE TABLE `ssb`.`Meetups`.`jsonmta` (
 )
 
 ````
+
+
+# Flink SQL Queries
+
+````
+
+select jsontranscom.title, jsontranscom.description, 
+       DISTANCE_BETWEEN(CAST(jsontranscom.latitude as STRING), 
+                 CAST(jsontranscom.latitude as STRING), 
+                 jsonmta.VehicleLocationLatitude, 
+                 jsonmta.VehicleLocationLongitude) as miles, 
+    jsonmta.VehicleRef, jsonmta.StopPointName, 
+    jsonmta.Bearing, jsonmta.DestinationName, jsonmta.ExpectedArrivalTime, jsonmta.VehicleLocationLatitude, 
+    jsonmta.VehicleLocationLongitude, 
+    jsonmta.ArrivalProximityText, jsonmta.DistanceFromStop, 
+    jsonmta.AimedArrivalTime, 
+    jsonmta.`Date`, jsonmta.ts, jsonmta.uuid, 
+    jsonmta.EstimatedPassengerCapacity, jsonmta.EstimatedPassengerCount
+
+from  jsonmta FULL OUTER JOIN jsontranscom  
+
+ON (jsontranscom.latitude >= CAST(jsonmta.VehicleLocationLatitude as float) - 0.3) 
+AND (jsontranscom.longitude >= CAST(jsonmta.VehicleLocationLongitude as float) - 0.3) 
+AND (jsontranscom.latitude <= CAST(jsonmta.VehicleLocationLatitude as float) + 0.3) 
+AND (jsontranscom.longitude <= CAST(jsonmta.VehicleLocationLongitude as float) + 0.3) 
+WHERE  jsonmta.VehicleRef is not null  
+AND jsontranscom.title is not null
+AND DISTANCE_BETWEEN(CAST(jsontranscom.latitude as STRING), 
+                     CAST(jsontranscom.latitude as STRING), 
+    jsonmta.VehicleLocationLatitude, jsonmta.VehicleLocationLongitude) <= 120
+
+
+````
