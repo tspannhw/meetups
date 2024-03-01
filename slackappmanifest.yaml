@@ -1,0 +1,144 @@
+display_information:
+  name: yourchatname
+  description: Apache NiFi Bot For LLM
+  background_color: "#18254d"
+  long_description: "chat testing"
+features:
+  app_home:
+    home_tab_enabled: true
+    messages_tab_enabled: false
+    messages_tab_read_only_enabled: false
+  bot_user:
+    display_name: nifichat
+    always_online: true
+  slash_commands:
+    - command: /yourchatname
+      description: starts command
+      usage_hint: ask question
+      should_escape: false
+    - command: /weather
+      description: get the weather
+      usage_hint: /weather 08520
+      should_escape: false
+    - command: /stocks
+      description: stocks
+      usage_hint: /stocks IBM
+      should_escape: false
+    - command: /nifi
+      description: NiFi Questions
+      usage_hint: Questions on NiFi
+      should_escape: false
+    - command: /flink
+      description: Flink Commands
+      usage_hint: Questions on Flink
+      should_escape: false
+    - command: /kafka
+      description: Questions on Kafka
+      usage_hint: Ask questions about Apache Kafka
+      should_escape: false
+    - command: /cml
+      description: CML
+      usage_hint: Cloudera Machine Learning
+      should_escape: false
+    - command: /cdf
+      description: Cloudera Data Flow
+      should_escape: false
+    - command: /csp
+      description: Cloudera Stream Processing
+      should_escape: false
+    - command: /cde
+      description: Cloudera Data Engineering
+      should_escape: false
+    - command: /cdw
+      description: Cloudera Data Warehouse
+      should_escape: false
+    - command: /cod
+      description: Cloudera Operational Database
+      should_escape: false
+    - command: /sdx
+      description: Cloudera Shared Data Experience
+      should_escape: false
+    - command: /cdp
+      description: Cloudera Data Platform
+      should_escape: false
+    - command: /cdh
+      description: Cloudera Data Hub
+      should_escape: false
+    - command: /rtdm
+      description: Cloudera Real-Time Data Mart
+      should_escape: false
+    - command: /csa
+      description: Cloudera Streaming Analytics
+      should_escape: false
+    - command: /smm
+      description: Cloudera Streams Messaging Manager
+      should_escape: false
+    - command: /ssb
+      description: Cloudera SQL Streams Builder
+      should_escape: false
+oauth_config:
+  scopes:
+    user:
+      - channels:history
+      - channels:read
+      - chat:write
+      - files:read
+      - files:write
+      - groups:history
+      - im:history
+      - im:read
+      - links:read
+      - mpim:history
+      - mpim:read
+      - users:read
+      - im:write
+      - mpim:write
+    bot:
+      - app_mentions:read
+      - channels:history
+      - channels:read
+      - chat:write
+      - commands
+      - files:read
+      - groups:history
+      - im:history
+      - im:read
+      - incoming-webhook
+      - links:read
+      - metadata.message:read
+      - mpim:history
+      - mpim:read
+      - users:read
+      - im:write
+      - mpim:write
+settings:
+  event_subscriptions:
+    user_events:
+      - channel_created
+      - channel_deleted
+      - file_created
+      - file_public
+      - file_shared
+      - im_created
+      - link_shared
+      - message.channels
+      - message.groups
+      - message.im
+      - message.mpim
+    bot_events:
+      - app_mention
+      - channel_created
+      - channel_deleted
+      - channel_rename
+      - group_history_changed
+      - member_joined_channel
+      - message.channels
+      - message.groups
+      - message.im
+      - message.mpim
+      - user_change
+  interactivity:
+    is_enabled: true
+  org_deploy_enabled: false
+  socket_mode_enabled: true
+  token_rotation_enabled: false
